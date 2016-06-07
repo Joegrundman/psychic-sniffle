@@ -1,0 +1,24 @@
+{
+  "name": "header-service",
+  "version": "1.0.0",
+  "description": "request header parser microservice",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Joegrundman/psychic-sniffle.git"
+  },
+  "keywords": [
+    "request-header-parser-microservice",
+    "fcc"
+  ],
+  "author": "Joegrundman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Joegrundman/psychic-sniffle/issues"
+  },
+  "homepage": "https://github.com/Joegrundman/psychic-sniffle#readme"
+}
